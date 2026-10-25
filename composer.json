@@ -3,7 +3,7 @@
     "description": "A twilio SDK wrapper.",
     "type": "library",
     "require": {
-        "twilio/sdk": "^5.32",
+        "twilio/sdk": "^5.32 || ^6.4",
         "nesbot/carbon": "^3.9"
     },
     "license": "MIT",
