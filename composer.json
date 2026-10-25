@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "twilio/sdk": "^5.32",
-        "nesbot/carbon": "^2.0.0"
+        "nesbot/carbon": "^3.9"
     },
     "license": "MIT",
     "authors": [
@@ -19,6 +19,5 @@
         }
     },
     "minimum-stability": "dev",
-    "require-dev": {
-    }
+    "prefer-stable": true
 }
